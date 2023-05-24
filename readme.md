@@ -1,6 +1,6 @@
-# COT Message Listener
+# Python ATAK Server - TLS Connection
 
-This Python script allows you to listen for Cursor-on-Target (COT) messages from a COT server using a TLS connection. It establishes a secure connection to the server, receives incoming messages, and prints them to the console.
+This Python script allows you to listen for Cursor-on-Target (COT) messages from a ATAK COT server using a TLS connection. It establishes a secure connection to the server, receives incoming messages, and prints them to the console. It can also be used to send messages to the server.
 
 ### Update:
 24.05.23 - Added a feature which sends a COT every 1 minute to the server, creating a BOT user. This can be useful for interfacing with other future functions.
