@@ -9,10 +9,10 @@ This Python script allows you to listen for Cursor-on-Target (COT) messages from
 
 Before using this script, ensure that you have the following:
 
-- Python 3.x installed on your system.
-- The necessary dependencies installed. You can install them using pip:
+- Python 3.x installed on your system. Pip installed on your system, to install the dependencies. ( Pip install dependencynamehere )
+- The necessary dependencies installed:
 
-pip install colorama
+   - colorama
 
 
 ## Usage
