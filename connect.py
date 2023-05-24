@@ -13,7 +13,7 @@ server_port = 8089
 certfile = '/root/example.pem'
 keyfile = '/root/example.key'
 cert_password = 'atakatak'
-cafile = '/root/server.crt'
+cafile = '/root/server.pem'
 
 def receive_messages():
     try:
